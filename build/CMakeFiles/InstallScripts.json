@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/richard/Desktop/Proj-2-Mesh-Simplification/build/cmake_install.cmake",
+		"/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/cmake_install.cmake",
+		"/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/glm/cmake_install.cmake",
+		"/home/richard/Desktop/Proj-2-Mesh-Simplification/build/meshark/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

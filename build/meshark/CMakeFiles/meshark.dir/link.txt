@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmeshark.a "CMakeFiles/meshark.dir/src/geometry-mesh.cc.o" "CMakeFiles/meshark.dir/src/mesh-io.cc.o" "CMakeFiles/meshark.dir/src/mesh-simplifier.cc.o" CMakeFiles/meshark.dir/src/simple_test.cc.o
+/usr/bin/ranlib libmeshark.a

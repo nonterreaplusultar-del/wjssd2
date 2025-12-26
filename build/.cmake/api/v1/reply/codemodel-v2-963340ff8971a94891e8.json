@@ -1,0 +1,190 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fmt::fmt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fmt__fmt-329ba94a3152278da971.json",
+					"name" : "fmt::fmt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fmt::fmt-header-only::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fmt__fmt-header-only-67118952e8d29a1a2dc4.json",
+					"name" : "fmt::fmt-header-only",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glm-header-only::@d090a432591bc19a3a56",
+					"jsonFile" : "target-glm-header-only-a44ce862821c7de9ec86.json",
+					"name" : "glm-header-only",
+					"projectIndex" : 1
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"jsonFile" : "directory-.-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "external/glm",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-external.glm-f962b4fffd38f1961131.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "external/glm"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						2
+					],
+					"build" : "external/glm/glm",
+					"jsonFile" : "directory-external.glm.glm-d7af715fcf136b440a66.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "external/glm/glm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "meshark",
+					"jsonFile" : "directory-meshark-677f6dfdbd48b1616263.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "meshark",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MeshSimplification"
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "glm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "meshark",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "glm::@d090a432591bc19a3a56",
+					"jsonFile" : "target-glm-22b415ba0de41894a9b9.json",
+					"name" : "glm",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "meshark::@694e4eb3993943bf2ab1",
+					"jsonFile" : "target-meshark-769c951f62ac360a61e9.json",
+					"name" : "meshark",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "simplify::@694e4eb3993943bf2ab1",
+					"jsonFile" : "target-simplify-ed54734179b25ffe1e49.json",
+					"name" : "simplify",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/richard/Desktop/Proj-2-Mesh-Simplification/build",
+		"source" : "/home/richard/Desktop/Proj-2-Mesh-Simplification"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

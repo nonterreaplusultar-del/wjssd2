@@ -1,0 +1,11 @@
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/CMakeFiles/edit_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/CMakeFiles/rebuild_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/CMakeFiles/edit_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/CMakeFiles/rebuild_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/glm/CMakeFiles/glm.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/glm/CMakeFiles/edit_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/external/glm/glm/CMakeFiles/rebuild_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/meshark/CMakeFiles/meshark.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/meshark/CMakeFiles/simplify.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/meshark/CMakeFiles/edit_cache.dir
+/home/richard/Desktop/Proj-2-Mesh-Simplification/build/meshark/CMakeFiles/rebuild_cache.dir

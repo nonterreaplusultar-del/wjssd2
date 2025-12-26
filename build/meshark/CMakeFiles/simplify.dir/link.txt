@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/simplify.dir/apps/simplify.cc.o -o simplify  -Wl,-rpath,/home/richard/miniconda3/lib libmeshark.a ../external/glm/glm/libglm.a /home/richard/miniconda3/lib/libfmt.so.9.1.0
